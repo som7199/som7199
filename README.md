@@ -1,6 +1,6 @@
 ## Hi there 👋
+<p>https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kim%20So%20min&fontAlign=50&animation=fadeIn&textBg=false&fontAlignY=44&descAlign=50&section=header</p>
 
-<!--
 **som7199/som7199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
